@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eIA_Acc_Details>
+<File_Header>
+<File_id>4</File_id>
+<From/>
+<Date_Of_Generation>20151130</Date_Of_Generation>
+<Num_Of_eIA_Acc_Details>1</Num_Of_eIA_Acc_Details></File_Header>
+<Person_eIA_Detail>
+    <Id/>
+    <eIADetails>
+      <AccCategory>1</AccCategory>
+      <TypeOfAcc>1</TypeOfAcc>
+      <AppNo>4004462319</AppNo>
+      <Insurance_Cmpny_Cd>10</Insurance_Cmpny_Cd>
+      <Date_Of_Receipt>20151130</Date_Of_Receipt>
+    </eIADetails>
+    <Applicant_Detail>
+      <No_Of_Applicant>1</No_Of_Applicant>
+      <Applicant Name="Sole/First Proposer">
+        <First_Name>BABE</First_Name>
+        <Middle_Name/>
+        <Last_Name>Sama</Last_Name>
+        <Father_Husband_Name/>
+        <Gender>M</Gender>
+        <DOB>19811112</DOB>
+        <PAN>ASAPK1792K</PAN>
+        <UID/>
+        <Address Name="Permanent">
+          <AddLine1>NIRAVATHUPARAMPIL</AddLine1>
+          <AddLine2>KOLANI P O</AddLine2>
+          <AddLine3>VENGALLOOR</AddLine3>
+          <Land_Mark/>
+          <City>THODUPUZHA</City>
+          <State>32</State>
+          <Country>4</Country>
+          <PIN_Code>685608</PIN_Code>
+        </Address>
+        <Address Name="Correspondence">
+          <AddLine1>NIRAVATHUPARAMPIL</AddLine1>
+          <AddLine2>KOLANI P O</AddLine2>
+          <AddLine3>VENGALLOOR</AddLine3>
+          <Land_Mark/>
+          <City>THODUPUZHA</City>
+          <State>32</State>
+          <Country>4</Country>
+          <PIN_Code>685608</PIN_Code>
+        </Address>
+        <Communication_Detail>
+          <Telephone_Number/>
+          <Alt_Telephone_Number/>
+          <Mob_Number>5766102765</Mob_Number>
+          <FAX/>
+          <Primary_email>nehak3@nsdl.co.in</Primary_email>
+          <Alternate_email/>
+        </Communication_Detail>
+      </Applicant>
+      <Bank_Details>
+        <Bank_Name>36</Bank_Name>
+        <Other_Bank_Name/>
+        <Branch>G G ROAD</Branch>
+        <City>KOCHI</City>
+        <Bank_Account_Number>543534553</Bank_Account_Number>
+        <Bank_Account_Type>1</Bank_Account_Type>
+        <Bank_MICR_Code/>
+        <Bank_IFSC_Code>IBKL0000014</Bank_IFSC_Code>
+        <Cancelled_Cheque>y</Cancelled_Cheque>
+      </Bank_Details>
+      <Authorized_Representative>
+        <First_Name>SURYA</First_Name>
+        <Middle_Name/>
+        <Last_Name/>
+        <Gender/>
+        <DOB/>
+        <PAN/>
+        <UID/>
+        <Address Name="Permanent">
+          <AddLine1>SFYRTYT</AddLine1>
+          <AddLine2>KOLANI P O</AddLine2>
+          <AddLine3>VENGALLOOR</AddLine3>
+          <Land_Mark/>
+          <City>THODUPUZHA</City>
+          <State>32</State>
+          <Country>4</Country>
+          <PIN_Code>685608</PIN_Code>
+        </Address>
+        <Communication_Detail>
+          <Telephone_Number/>
+          <Mob_Number>9766102765</Mob_Number>
+          <Relationship>7</Relationship>
+          <Relationship_Other/>
+          <Primary_email>NEHAK@NSDL.CO.IN</Primary_email>
+        </Communication_Detail>
+        <Communication_Flag>Y</Communication_Flag>
+      </Authorized_Representative>
+      <Other_Detail>
+        <ID_Proof>1</ID_Proof>
+        <Address_Proof>5</Address_Proof>
+        <Correspondence_Address_Proof>5</Correspondence_Address_Proof>
+        <DOB_Proof>1</DOB_Proof>
+      </Other_Detail>
+    </Applicant_Detail>
+  </Person_eIA_Detail>
+ </eIA_Acc_Details>
